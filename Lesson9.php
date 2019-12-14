@@ -83,4 +83,6 @@ if ($OneUserId['lang'] == $EndUserId['lang']) {
     echo "<h1>Добрых времени суток</h1>";
     echo "<h1>Gute Tageszeit</h1>";
 }
+
+
 ?>
